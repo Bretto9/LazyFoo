@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=lazyfoo
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/lazyfoo
+CND_ARTIFACT_NAME_Debug=ladyfoo
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/ladyfoo
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=lazyfoo.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/lazyfoo.tar
+CND_PACKAGE_NAME_Debug=ladyfoo.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/ladyfoo.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=lazyfoo
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/lazyfoo
+CND_ARTIFACT_NAME_Release=ladyfoo
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/ladyfoo
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=lazyfoo.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/lazyfoo.tar
+CND_PACKAGE_NAME_Release=ladyfoo.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/ladyfoo.tar
 #
 # include compiler specific variables
 #
