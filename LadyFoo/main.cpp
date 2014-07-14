@@ -82,6 +82,7 @@ int main(int argc, char** argv) {
     } else {
         cout << "Error al inicializar" << endl;
         return 1;
+        
     }
     return 0;
 }
